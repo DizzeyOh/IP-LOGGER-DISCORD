@@ -3,3 +3,5 @@ Create Webhook on your discord server
 Copy Webhook Link
 Paste in file
 Run the code
+
+**Please note. This source was created within Flask virtual environment via VSC. You CANNOT run this file directly. Please read instruction within content files to activate**
